@@ -94,8 +94,8 @@ nav ul li a:hover:after{
     width: 70%;
 }
 .content p{
-    width: 55%;
+    width: 60%;
     color: #202020;
-    margin-top: 25px;
-    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
